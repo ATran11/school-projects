@@ -1,5 +1,5 @@
 # School_projects
-Available upon request
+## Available upon request.
 
 Due to academic honor code I cannot show school projects on public repositories. If you wish to view them please contact me. 
 
