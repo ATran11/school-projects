@@ -5,10 +5,10 @@ Due to academic honor code I cannot show school projects on public repositories.
 
 My school projects are made with C and Java relate to the following:
 
-•	Dynamic memory allocation
-•	Hash tables
-•	Binary search trees
-•	Backtracking
-•	Topological sort
-•	Skip list
-•	Dynamic programming 
+*	Dynamic memory allocation
+*	Hash tables
+*	Binary search trees
+*	Backtracking
+*	Topological sort
+*	Skip list
+*	Dynamic programming 
